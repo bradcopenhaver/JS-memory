@@ -1,7 +1,13 @@
 #grid {
   width: 1250px;
 }
-#grid img {
+.cardBorder {
+  border: 2px solid black;
   float: left;
+  width: 305px;
+  height: 305px;
+}
+.cardBorder img {
   width: 300px;
+  display: none;;
 }
